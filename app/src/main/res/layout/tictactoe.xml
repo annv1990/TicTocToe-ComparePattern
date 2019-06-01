@@ -80,7 +80,7 @@
             android:layout_height="match_parent"
             android:gravity="center"
             android:orientation="vertical"
-            android:visibility="@{viewModel.winner != null ? View.VISIBLE : View.GONE}"
+            android:visibility="@{viewModel.winner != null ? 0 : 1}"
             tools:visibility="visible">
 
             <TextView
