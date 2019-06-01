@@ -1,4 +1,4 @@
-# ticTacToe
+# TicTacToe
 
 A simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectures to organize the application.
 
@@ -8,5 +8,8 @@ Other branches contain the model, plus a User Interface following:
 * *mvc* - Is an example of using Model View Controller to model the UI / Model Interaction.
 * *mvp* - Example of Model View Presenter
 * *mvvm* - Example of Model View ViewModel with Databinding 
+
+Follow this article
+https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
 
 
